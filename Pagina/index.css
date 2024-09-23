@@ -1,0 +1,13 @@
+div#login {
+    width: 375px;
+    border: solid 1px;
+    padding: 34px;
+    border-radius: 16px;
+    background-color: rgb(80, 124, 38);
+}
+
+div#mismensajes{ 
+    position: absolute;
+    right: 0px;
+    width: 375px;
+}
